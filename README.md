@@ -1,90 +1,31 @@
-# Hi there 👋, I'm Rohith Vijay
+# Rohith Vijay K
 
-### Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
+Backend engineer working in Java and Spring Boot, moving into Generative AI (RAG and AI agents).
+B.Tech CSE '28 at KL University, Generative AI specialisation (CGPA 9.55).
 
-I am a **B.Tech Computer Science Engineering student at KL University** specializing in **Generative AI**, with a strong interest in **Software Engineering, Full Stack Development, Backend Engineering, and Artificial Intelligence**.
+I build and run the production platform for K.V.G. Shanmuka Sai Charitable Trust. It has raised over ₹50,000 in donations through Razorpay.
 
-I enjoy building software that solves real-world problems while continuously improving my problem-solving, system design, and software engineering skills.
+## What I've built
 
----
+**[KVG Trust Platform](https://shanmukasaitrust.org)** · live
+Spring Boot, React, MySQL. Google OAuth + JWT, role-based admin CMS, Razorpay donations (₹50,000+ raised).
+Deployed on Railway and Cloudflare with CI/CD and a custom domain. Sole engineer.
+[backend](https://github.com/kvgshanmukhsaitrust-ops/trust-backend) · [frontend](https://github.com/Rohith-vijay/Trust-Frontend)
 
-## 🚀 Current Focus
+**[ByteVault Media](https://github.com/Rohith-vijay/ByteVault)**
+Microservices marketplace for digital products. Database per service, transactional outbox,
+API gateway, RabbitMQ, Redis, MinIO, HMAC-signed download links. Team of 3.
 
-* 📚 Mastering Data Structures & Algorithms
-* ☕ Advancing Java & Spring Boot Development
-* 🌐 Building scalable Full Stack Applications
-* 🤖 Exploring Generative AI, RAG & AI Agents
-* 💻 Preparing for Software Engineering Internships & Placements
+**[CrediFlow](https://github.com/Rohith-vijay/Loanmanagement-backend)**
+Loan lifecycle system: application, risk scoring, approval, repayment. Spring Security with
+JWT and OAuth2, Bucket4j rate limiting, AOP audit logging, PDF/Excel exports.
 
----
+## Stack
 
-## 💼 Featured Projects
+Java · Spring Boot · Spring Security · JPA · PostgreSQL · MySQL · RabbitMQ · Redis · React · AWS
 
-### 🏢 Trust NGO Platform
+## Now
 
-A production-oriented NGO management platform featuring volunteer management, event management, secure authentication, CMS, and online donations using **Spring Boot, React, MySQL, and Razorpay**.
+Building Generative AI projects with RAG and AI agents. Solving DSA daily ([NeetCode](https://github.com/Rohith-vijay/neetcode-submissions)).
 
-### 💰 CrediFlow
-
-A full-stack loan management system with role-based authentication, secure workflows, and modern web architecture built using **Spring Boot, React, and MySQL**.
-
-### 🍱 GreenBites
-
-A food donation platform connecting donors with recipients to reduce food waste and support communities.
-
-### 🏥 Smart Clinic System
-
-A Java-based application for managing appointments, patient records, prescriptions, and clinic operations.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-Java • Python • C • SQL
-
-**Backend**
-
-Spring Boot • REST APIs • Spring Security • JPA/Hibernate
-
-**Frontend**
-
-React • JavaScript • HTML • CSS
-
-**Databases**
-
-MySQL • MongoDB
-
-**Tools & Platforms**
-
-Git • GitHub • Postman • AWS
-
----
-
-## 🌱 Currently Learning
-
-* Data Structures & Algorithms
-* Core Computer Science
-* System Design
-* Docker
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-
----
-
-## 🤝 Leadership
-
-Currently serving as the **Vice President of K V G Shanmukh Sai Trust**, where I contribute to technology initiatives, website development, digital operations, volunteer coordination, and community outreach while leveraging technology for social impact.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/rohithvijayk
-* Email: [2400031537@kluniversity.in](mailto:2400031537@kluniversity.in)
-
----
-
-> *"Building technology that creates real-world impact while continuously learning and improving as a Software Engineer."*
+AWS Certified Cloud Practitioner · [LinkedIn](https://www.linkedin.com/in/rohithvijayk) · [vijayrohith358@gmail.com](mailto:vijayrohith358@gmail.com)
