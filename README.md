@@ -13,8 +13,9 @@ Deployed on Railway and Cloudflare with CI/CD and a custom domain. Sole engineer
 [backend](https://github.com/kvgshanmukhsaitrust-ops/trust-backend) · [frontend](https://github.com/Rohith-vijay/Trust-Frontend)
 
 **[ByteVault Media](https://github.com/Rohith-vijay/ByteVault)**
-Microservices marketplace for digital products. Database per service, transactional outbox,
-API gateway, RabbitMQ, Redis, MinIO, HMAC-signed download links. Team of 3.
+Microservices marketplace for digital products: 14 Spring Boot services behind an API gateway,
+with Eureka discovery, OpenFeign, RabbitMQ events and a PostgreSQL database per service.
+Transactional outbox, idempotent payments, HMAC-signed download links, 51 test classes. Team of 3.
 
 **[CrediFlow](https://github.com/Rohith-vijay/Loanmanagement-backend)**
 Loan lifecycle system: application, risk scoring, approval, repayment. Spring Security with
@@ -22,7 +23,7 @@ JWT and OAuth2, Bucket4j rate limiting, AOP audit logging, PDF/Excel exports.
 
 ## Stack
 
-Java · Spring Boot · Spring Security · JPA · PostgreSQL · MySQL · RabbitMQ · Redis · React · AWS
+Java · Spring Boot · Spring Security · JPA · PostgreSQL · MySQL · RabbitMQ · Spring Cloud · React · AWS
 
 ## Now
 
